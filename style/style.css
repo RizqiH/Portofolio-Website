@@ -171,7 +171,7 @@ a {
 }
 
 .logo a {
-    color: var(--primaryTextColor);
+    color: #5d51e8;
 }
 
 nav ul li {
@@ -220,7 +220,8 @@ nav ul li a {
     100% { opacity: 1; }
   }
   
-  
+
+
 
 .hero-name span {
     color: var(--primaryIconColor);
